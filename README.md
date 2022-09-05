@@ -1,5 +1,5 @@
 # flappy-bird
-This is a Falppy Bird game build using python.<br></br>
+This is a Flappy Bird game build using python.<br></br>
 Click start or use your spacebar to get started. Fly the bird as far as you can without hitting a pipe.<br></br>
 
 Steps to follow:<br></br>
